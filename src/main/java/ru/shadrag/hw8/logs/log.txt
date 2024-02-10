@@ -1,0 +1,3 @@
+Был вызван метод: List ru.shadrag.hw8.services.UsersServiceImpl.getAllUsers() | Sat Feb 10 17:24:40 VLAT 2024
+Был вызван метод: User ru.shadrag.hw8.services.UsersServiceImpl.createUser(User) | Sat Feb 10 17:24:59 VLAT 2024
+Был вызван метод: List ru.shadrag.hw8.services.UsersServiceImpl.getAllUsers() | Sat Feb 10 17:24:59 VLAT 2024
